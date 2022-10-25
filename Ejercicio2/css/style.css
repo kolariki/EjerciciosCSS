@@ -1,0 +1,66 @@
+html {
+    /* font-size 62.5% makes 1rem equal 10px for easy size calculations. */
+    font-size: 62.5%;
+    font-family: Calibri, Arial, sans-serif;
+    background-color: #EAEEFA;
+    padding: auto;
+    width: 55%;
+    margin: auto;
+    }
+    #section {
+        font-size: 2rem;
+        letter-spacing: -1px;
+        margin: 1px;
+        color: rgb(3, 3, 3);
+        padding: 4px 1px 1px 1px;
+        background-color: #e8e9a9;
+        box-sizing: 100%;
+    }
+    .container {
+    padding: auto;
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+    letter-spacing: 1px;
+    box-sizing: border-box;
+    box-sizing: 80%;
+    }
+    #artico {
+    font-size: 4.5rem;
+    letter-spacing: -1px;
+    margin: .001em .1em .1em .1em;
+    color: rgb(12, 12, 184);
+    padding: 50px 20px 20px 20px;
+    border: 6px solid rgb(158, 9, 9);
+    background-color: #EAEEFA;
+    }
+    p{
+        letter-spacing: 1px;
+    }
+
+    #tituloEspacio{
+        font-size: 4rem;
+        letter-spacing: -1px;
+        margin: .2em .1em .1em .1em;
+        color: rgb(221, 43, 12);
+        padding: 50px 20px 30px 20px;
+        text-align: center;
+    }
+
+    #parrafo1{
+    font-size: 2rem;
+    letter-spacing: -1px;
+    margin: .001em .1em .1em .1em;
+    color: rgb(12, 12, 184);
+    padding: 20px 20px 20px 20px;
+    border: 3px solid rgb(158, 9, 9);
+    background-color: #EAEEFA;
+    }
+    #parrafo2{
+        font-size: 2rem;
+        letter-spacing: -1px;
+        margin: .001em .1em .1em .1em;
+        color: rgb(25, 167, 6);
+        padding: 50px 20px 20px 20px;
+        }
+      
